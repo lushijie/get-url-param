@@ -20,10 +20,10 @@ You can simply include get-url-param like this:
 ## Usage
 
 ```javascript
-var gurlp=require("gurlp");
+var getURLParam=require("get-url-param");
 var url="http://www.baidu.com/s=?ie=UTF-8&wd=mustache";
-console.log(gurlp.getUrlParam(url,"ie"));//UTF-8
-console.log(gurlp.getUrlParam(url,"noexist"));//null
+console.log(gurlp.getURLParam(url,"ie"));//UTF-8
+console.log(gurlp.getURLParam(url,"noexist"));//null
 
 ```
 

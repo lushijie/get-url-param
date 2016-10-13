@@ -12,9 +12,6 @@
   ],
   "author": "wd4blue(lushijie1218@126.com)",
   "license": "MIT",
-  "devDependencies": {
-    "nodeunit": "^0.9.0"
-  },
   "directories": {
     "test": "test"
   },
