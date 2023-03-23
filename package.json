@@ -15,10 +15,6 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-    "mocha": "^3.1.2",
-    "nodeunit": "^0.9.0"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wd4blue/get-url-param"
@@ -26,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/wd4blue/get-url-param/issues"
   },
-  "homepage": "https://github.com/wd4blue/get-url-param/get-url-param"
+  "homepage": "https://github.com/wd4blue/get-url-param/get-url-param",
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "nodeunit": "^0.9.0"
+  }
 }
